@@ -25,8 +25,14 @@ As backend storage, we ’ve used MySql, to stock credentials and encrypted imag
 ##Interfaces : 
 
 We have three interfaces , the first for authentification , the second for starting the whole process and crypt and decryp saved 
-captures and the las on for visualisation . 
+captures and the last one for visualisation . 
 ![Screenshot from 2020-04-20 04-40-41](https://user-images.githubusercontent.com/54064593/79709398-b2ca0000-8287-11ea-999c-82e8f3f1147e.png)
+
+![Screenshot from 2020-04-20 04-40-52](https://user-images.githubusercontent.com/54064593/79709800-c1fd7d80-8288-11ea-954f-4c54358f21ed.png)
+
+![Screenshot from 2020-04-20 04-42-45](https://user-images.githubusercontent.com/54064593/79709804-c5910480-8288-11ea-8bda-da979723fd7a.png)
+![Screenshot from 2020-04-20 04-42-55](https://user-images.githubusercontent.com/54064593/79709819-cc1f7c00-8288-11ea-9cff-ee8a845389c4.png)
+
 
 
 
